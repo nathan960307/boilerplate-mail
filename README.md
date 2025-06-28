@@ -1,2 +1,22 @@
-# boilerplate-mail
-Spring Boot 기반 이메일 인증 API 보일러플레이트
+# 📌 [프로젝트 이름]
+
+간단한 설명: Spring Boot 기반 [서비스/API] 서버입니다.
+
+---
+
+## ✅ 주요 기능
+
+- 기능 1 설명
+- 기능 2 설명
+- 기능 3 설명
+
+---
+
+## ✅ 기술 스택
+
+- Java 17+
+- Spring Boot
+- Gradle
+- 기타 라이브러리
+
+---
